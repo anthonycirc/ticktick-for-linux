@@ -8,7 +8,7 @@ TickTick For Linux (Non official)
     
 - Execute this file :
 
-    cd TickTickForLinux-linux-x64
+    cd TickTickForLinux-linux-x64<br/>
     ./TickTickForLinux
 ### Option
 - create a shortcut .desktop
